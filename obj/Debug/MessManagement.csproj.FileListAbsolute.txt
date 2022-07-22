@@ -1,0 +1,32 @@
+C:\Users\Faiqa\source\repos\MessManagement\bin\Debug\MessManagement.exe.config
+C:\Users\Faiqa\source\repos\MessManagement\bin\Debug\MessManagement.exe
+C:\Users\Faiqa\source\repos\MessManagement\bin\Debug\MessManagement.pdb
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.csprojAssemblyReference.cache
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.Form1.resources
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.Properties.Resources.resources
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.csproj.GenerateResource.cache
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.exe
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.pdb
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.Category.resources
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.StudentRegistration.resources
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.Meal.resources
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.Bill.resources
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.Employee.resources
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.Searchstudent.resources
+C:\Users\Faiqa\source\repos\MessManagement\obj\Debug\MessManagement.find.resources
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\bin\Debug\MessManagement.exe.config
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\bin\Debug\MessManagement.exe
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\bin\Debug\MessManagement.pdb
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.csprojAssemblyReference.cache
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.Bill.resources
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.Category.resources
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.Employee.resources
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.find.resources
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.Form1.resources
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.Meal.resources
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.Properties.Resources.resources
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.Searchstudent.resources
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.StudentRegistration.resources
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.csproj.GenerateResource.cache
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.exe
+C:\Users\Faiqa\source\repos\Faiqa Arshad(023-17-0037)\obj\Debug\MessManagement.pdb
